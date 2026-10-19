@@ -1,0 +1,1 @@
+gcc -shared native/win-x64/obj/ordered_nauty_bridge.o native/win-x64/obj/nauty.o native/win-x64/obj/nautil.o native/win-x64/obj/nausparse.o native/win-x64/obj/naugraph.o native/win-x64/obj/schreier.o native/win-x64/obj/naurng.o -static-libgcc -o native/win-x64/orderednauty.dll

@@ -1,0 +1,1 @@
+gcc -O2 -fno-strict-aliasing -I../nauty2_9_3 -c native/ordered_nauty_bridge.c -o native/win-x64/obj/ordered_nauty_bridge.o

@@ -1,0 +1,6 @@
+GCC: /ucrt64/bin/gcc
+Target: x86_64-w64-mingw32
+NautyDir: /c/Users/Tamás/Downloads/nauty2_9_3
+Project: /c/Users/Tamás/Downloads/ordered-matching-nauty-v20
+OBJ_FROM_NAUTY: ../ordered-matching-nauty-v20/native/win-x64/obj
+NAUTY_FROM_PROJECT: ../nauty2_9_3

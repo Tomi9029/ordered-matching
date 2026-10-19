@@ -1,0 +1,7 @@
+bin/
+obj/
+native/win-x64/*.dll
+native/win-x64/obj/
+native/linux-x64/*.so
+.vs/
+/native/README-WINDOWS-V11.md
